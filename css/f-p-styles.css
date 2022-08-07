@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-style:italic;
+  line-height: 200%;
+}
+
+h2 {
+  text-align: left;
+  font-weight: 500;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
